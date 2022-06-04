@@ -157,7 +157,6 @@ Par convention, on utilise les codes suivants :
 | --------------------------------------------------------------- | ------ |
 | Récupération d'une ressource                                    | 200    |
 | Création d'une nouvelle ressource                               | 201    |
-| Mise à jour d'une ressource                                     | 204    |
 | Suppression d'une ressource                                     | 204    |
 | La requête est invalide                                         | 400    |
 | L'utilisateur n'est pas authentifié                             | 401    |
